@@ -6,14 +6,48 @@ using System.Threading.Tasks;
 
 namespace NFilosophersProblem
 {
-    internal class Program
+
+    class Program
     {
         static void Main(string[] args)
         {
+            const int numPhilosophers = 5;
+            var philosophers = new Philosopher[numPhilosophers];
+            var forks = new Fork[numPhilosophers];
 
-            Console.WriteLine("Enter the number of philosophers");
+            // Inicjalizacja widelców
+            for (int i = 0; i < numPhilosophers; i++)
+            {
+                forks[i] = new Fork(i);
+            }
 
-            int n = int.Parse(Console.ReadLine());
+            // Inicjalizacja filozofów
+            for (int i = 0; i < numPhilosophers; i++)
+            {
+                philosophers[i] = new Philosopher(i, forks[i], forks[(i + 1) % numPhilosophers]);
+            }
+
+            // Uruchomienie wątków filozofów
+            var threads = new Thread[numPhilosophers];
+            for (int i = 0; i < numPhilosophers; i++)
+            {
+                threads[i] = new Thread(new ThreadStart(philosophers[i].Run));
+                threads[i].Start();
+            }
+
+            // Oczekiwanie na zakończenie pracy wątków filozofów
+            for (int i = 0; i < numPhilosophers; i++)
+            {
+                threads[i].Join();
+            }
         }
     }
+
+
 }
+
+
+
+
+
+
