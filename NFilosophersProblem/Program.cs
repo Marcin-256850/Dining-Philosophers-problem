@@ -14,6 +14,9 @@ namespace NFilosophersProblem
             Console.WriteLine("Enter the number of philosophers");
 
             int n = int.Parse(Console.ReadLine());
+
+            Fork fork = new Fork();
+            fork.start(n);
         }
     }
 }
