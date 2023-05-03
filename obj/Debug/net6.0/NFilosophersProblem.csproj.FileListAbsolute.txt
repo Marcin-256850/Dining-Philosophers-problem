@@ -1,0 +1,15 @@
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\bin\Debug\net6.0\NFilosophersProblem.exe
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\bin\Debug\net6.0\NFilosophersProblem.deps.json
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\bin\Debug\net6.0\NFilosophersProblem.runtimeconfig.json
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\bin\Debug\net6.0\NFilosophersProblem.dll
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\bin\Debug\net6.0\NFilosophersProblem.pdb
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\NFilosophersProblem.csproj.AssemblyReference.cache
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\NFilosophersProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\NFilosophersProblem.AssemblyInfoInputs.cache
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\NFilosophersProblem.AssemblyInfo.cs
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\NFilosophersProblem.csproj.CoreCompileInputs.cache
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\NFilosophersProblem.dll
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\refint\NFilosophersProblem.dll
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\NFilosophersProblem.pdb
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\NFilosophersProblem.genruntimeconfig.cache
+C:\Users\bartn\Desktop\natjava_12345\NFilosophersProblem\NFilosophersProblem\obj\Debug\net6.0\ref\NFilosophersProblem.dll

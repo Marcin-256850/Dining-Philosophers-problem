@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NFilosophersProblem/1.0.0": {
+        "runtime": {
+          "NFilosophersProblem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NFilosophersProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
