@@ -41,12 +41,6 @@ namespace NFilosophersProblem
             {
                 threads[i].Join();
             }
-
-            int n = int.Parse(Console.ReadLine());
-
-            Fork fork = new Fork();
-            fork.start(n);
-
         }
     }
 
