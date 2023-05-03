@@ -35,11 +35,18 @@ namespace NFilosophersProblem
                 threads[i].Start();
             }
 
+
             // Oczekiwanie na zakończenie pracy wątków filozofów
             for (int i = 0; i < numPhilosophers; i++)
             {
                 threads[i].Join();
             }
+
+            int n = int.Parse(Console.ReadLine());
+
+            Fork fork = new Fork();
+            fork.start(n);
+
         }
     }
 
